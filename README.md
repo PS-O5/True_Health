@@ -14,9 +14,9 @@ HOW TO JOIN US?
 2. Then download Truehealth_Setup.exe file included here.
 3. After loging in with your unique Login ID and Password, you can start pushing insurance cases to us and we will get back to you with best option.
 
-~CAUTION~
+*CAUTION*
 
-CASES FROM UNREGISTERED HOSPITALS/DOCTORS WILL NOT BE CONSIDERED
+*CASES FROM UNREGISTERED HOSPITALS/DOCTORS WILL NOT BE CONSIDERED*
 
 
 
