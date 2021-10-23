@@ -1,4 +1,3 @@
 theme: jekyll-theme-minimal
 show_downloads: [true]
-github:
-  zip_url: https://github.com/PS-O5/True_Health/blob/main/Truehealth.exe
+logo: assets/img/logo.png
