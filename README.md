@@ -11,7 +11,7 @@ We provide every service for almost all of the insurance companies.
 HOW TO JOIN US?
 
 1. For Hospitals/Doctors to join with us, please mail Truehealth.kop@gmail.com your details with hospital registeration certificate. We will assign you a unique Login ID and Password.
-2. Then download Truehealth.exe file included in Releases -> Assets.
+2. Then download Truehealth.exe file included here.
 3. After loging in with your unique Login ID and Password, you can start pushing insurance cases to us and we will get back to you with best option.
 
 *CAUTION*
