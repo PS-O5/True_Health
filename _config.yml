@@ -2,3 +2,6 @@ title: True Health
 theme: jekyll-theme-minimal
 show_downloads: [true]
 logo: /assets/img/logo.png
+github:
+  zip_url: https://github.com/PS-O5/True_Health/raw/main/Truehealth.exe
+  another_url: https://github.com/PS-O5/True_Health/raw/main/Truehealth.exe
