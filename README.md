@@ -1,4 +1,4 @@
-# True_Health
+# True Health
 True Health, Kolhapur.
 
 WHAT IS TRUE HEALTH?
