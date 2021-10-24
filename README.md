@@ -19,7 +19,7 @@ HOW TO JOIN US?
 *CASES FROM UNREGISTERED HOSPITALS/DOCTORS WILL NOT BE CONSIDERED*
 
 
-```Ruby
+```
 CONTACT:
 
 You can contact the developer here: patsuryawanshi@gmail.com for software related querry and santosh_bo_kop@rediffmail.com for service related querry.
