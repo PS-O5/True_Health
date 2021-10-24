@@ -21,4 +21,4 @@ At the time of submitting your request for insurance claim, we will thoroughly a
 
 ### CONTACT:
 
-For customer care contact santosh_bo_kop@rediffmail.com and for technical querry contact here: patsuryawanshi@gmail.com.
+For customer care contact here: santosh_bo_kop@rediffmail.com and for technical querry contact here: patsuryawanshi@gmail.com.
