@@ -21,4 +21,4 @@ At the time of submitting your request for insurance claim, we will thoroughly a
 
 ### CONTACT:
 
-You can contact the developer here: patsuryawanshi@gmail.com for software related querry and santosh_bo_kop@rediffmail.com for service related querry.
+For technical querry contact here: patsuryawanshi@gmail.com and for customer care contact santosh_bo_kop@rediffmail.com .
