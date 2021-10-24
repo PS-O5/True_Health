@@ -17,7 +17,11 @@ At the time of submitting your request for insurance claim, we will thoroughly a
 
 *CASES FROM UNREGISTERED HOSPITALS/DOCTORS WILL NOT BE CONSIDERED*
 
+### Flase Positive Alert:
 
+![alt text](https://github.com/PS-O5/True_Health/blob/app_page/assets/img/fp.png)
+
+Please update your anti virus to latest definition or add exclusion to this file. Our file is clean, also certified by microsoft.
 
 ### CONTACT:
 
