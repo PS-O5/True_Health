@@ -17,7 +17,9 @@ At the time of submitting your request for insurance claim, we will thoroughly a
 
 *CASES FROM UNREGISTERED HOSPITALS/DOCTORS WILL NOT BE CONSIDERED*
 
+### Flase Positive Alert:
 
+![alt text](http://url/to/img.png)
 
 ### CONTACT:
 
