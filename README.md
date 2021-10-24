@@ -17,13 +17,10 @@ At the time of submitting your request for insurance claim, we will thoroughly a
 
 *CASES FROM UNREGISTERED HOSPITALS/DOCTORS WILL NOT BE CONSIDERED*
 
-### Flase Positive Alert:
-
-![alt text](https://github.com/PS-O5/True_Health/blob/app_page/assets/img/fp.png)
-https://ibb.co/zr33HD2 
-
-Please update your anti virus to latest definition or add exclusion to this file. Our file is clean, also certified by microsoft.
-
 ### CONTACT:
 
 For customer care contact here: santosh_bo_kop@rediffmail.com and for technical querry contact here: patsuryawanshi@gmail.com.
+
+### Flase Positive Alert:
+
+Please update your anti virus to latest definition or add exclusion to this file. Our file is clean, also certified by microsoft.
