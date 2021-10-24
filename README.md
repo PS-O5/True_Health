@@ -1,6 +1,3 @@
-# True Health
-True Health, Kolhapur.
-
 ## WHAT IS TRUE HEALTH?
 
 We are a 15 years plus expertise in the domain of healthcare and insurance.
